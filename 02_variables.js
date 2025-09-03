@@ -1,5 +1,4 @@
-/*
-Tareas
+/* Tareas
 
 Declare una nueva variable llamada petDog y asígnele el nombre Rex.
 
