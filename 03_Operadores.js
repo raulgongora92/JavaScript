@@ -1,4 +1,4 @@
-/* Operadores artimeticos 
+/* Operadores aritmeticos 
     + Suma
     - Resta
     * Multiplicacion
