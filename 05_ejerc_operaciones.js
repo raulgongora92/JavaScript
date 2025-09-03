@@ -126,7 +126,6 @@ En la siguiente línea, use el operador += para aumentar el valor del contador e
 En la cuarta línea, la consola registra el valor de la variable counter.
 
 Nota: El valor del resultado debe ser 8.
-
 */
 
 var counter = 0;
