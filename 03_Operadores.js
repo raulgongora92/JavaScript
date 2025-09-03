@@ -1,4 +1,4 @@
-/* Operadores artimeticos en Javascript 
+/* Operadores artimeticos 
     + Suma
     - Resta
     * Multiplicacion
