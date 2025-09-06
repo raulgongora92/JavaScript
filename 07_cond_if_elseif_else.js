@@ -1,3 +1,5 @@
+// Ejemplo de uso de if, else if y else
+
 var place = "first";
 
 if (place == "first") {
