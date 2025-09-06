@@ -1,28 +1,28 @@
 /* Tareas  
 
-Declare una nueva variable llamada petDog y asígnele el nombre Rex.
+- Declare una nueva variable llamada petDog y asígnele el nombre Rex.
 
-Declare una nueva variable llamada petCat y asígnele el nombre Pepper.
+- Declare una nueva variable llamada petCat y asígnele el nombre Pepper.
 
-Registe en la consola la variable petDog.
+- Registe en la consola la variable petDog.
 
-Registe en la consola la variable petCat.
+- Registe en la consola la variable petCat.
 
-Registre en la consola el texto "My pet dog's name is: " y la variable petDog .
+- Registre en la consola el texto "My pet dog's name is: " y la variable petDog .
 
-Registre en la consola el texto "My pet cat's name is: " y la variable petCat.
+- Registre en la consola el texto "My pet cat's name is: " y la variable petCat.
 
-Declare otra variable y asígnele el nombre catSound. Asígnele la cadena "purr".
+- Declare otra variable y asígnele el nombre catSound. Asígnele la cadena "purr".
 
-Declare otra variable y asígnele el nombre dogSound. Asígnele la cadena "woof".
+- Declare otra variable y asígnele el nombre dogSound. Asígnele la cadena "woof".
 
-Registre en la consola la variable petDog, luego la cadena "says", luego la variable dogSound.
+- Registre en la consola la variable petDog, luego la cadena "says", luego la variable dogSound.
 
-Registre en la consola la variable petCat, luego la cadena "says", luego la variable catSound.
+- Registre en la consola la variable petCat, luego la cadena "says", luego la variable catSound.
 
-Reasigne el valor almacenado en catSound a la cadena "meow".
+- Reasigne el valor almacenado en catSound a la cadena "meow".
 
-Registre en la consola la variable petCat, luego la cadena "now says", luego la variable catSound.
+- Registre en la consola la variable petCat, luego la cadena "now says", luego la variable catSound.
 */
 
 var petDog = "Rex";
