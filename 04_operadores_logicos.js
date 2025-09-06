@@ -15,7 +15,7 @@ console.log('Feeding the pet');
 console.log("Pet is hungry: ", !petHungry); 
 console.log(petHungry);
 
-console.log(1 + "2");
+console.log(1 + "2"); //aqui esta es concatenando y no sumando
 
 var overtime = 1;
 overtime += 2;
