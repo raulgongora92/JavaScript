@@ -1,4 +1,4 @@
-//ejecutar en la consola del navegador para ver los estilos
+// Ejecutar en la consola del navegador para ver los estilos
 
 var cubes = 'ABCDEFG';
 
