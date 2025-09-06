@@ -1,4 +1,5 @@
 // Funciones sin argumentos
+
 function addTwoNums1() {
     var a = 10;
     var b = 20;
@@ -10,6 +11,7 @@ function addTwoNums1() {
 addTwoNums1();
 
 // Funciones con argumentos
+
 function addTwoNums2(d, e) {
     var f = d + e;
 
