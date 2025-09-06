@@ -1,16 +1,19 @@
-// loop for
+// Bucle for
+// variable de control, condición, incremento
 
-for (var i = 0; i < 5; i++) {
+for (var i = 1; i <= 30; i++) {
     console.log("El valor de i es: " + i);
 }
 
 console.log("--------------------------");
 
-// loop while
+// Bucle while
 
+// variable de control
 var j = 1;
-
-while (j < 101 ) {
+// condición
+while (j < 5 ) {
     console.log(j);
+    // incremento
     j++;
 }
