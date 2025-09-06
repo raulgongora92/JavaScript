@@ -23,7 +23,8 @@ console.log(3 - 2); //1
 console.log(3 * 2); //6
 console.log(3 / 2); //1.5
 console.log(3 % 2); //1
-console.log(3 ** 2); //9    
+console.log(3 ** 2); //9
+console.log("-------");    
 console.log(3 > 2); //true
 console.log(3 < 2); //false
 console.log(3 >= 2); //true
@@ -36,4 +37,3 @@ console.log(100 == "100"); //true
 console.log(100 === "100"); //false
 console.log(100 !== "100"); //true  
 console.log(100 !== 100); //false
-
