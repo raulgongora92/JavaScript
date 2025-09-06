@@ -1,3 +1,5 @@
+// Ejercicio bucle while
+
 var counter = 3;
 
 while (counter > 0) {
