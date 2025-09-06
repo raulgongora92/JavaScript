@@ -117,6 +117,7 @@ console.log(now + three + d);
 console.log("-------------------------------------");
 
 /* Tarea 6: Use el operador += para acumular valores en una variable
+
 Codifique una nueva variable y asígnele el nombre counter, asignándole el valor de 0.
 
 En la siguiente línea, use el operador += para aumentar el valor del contador en 5.
