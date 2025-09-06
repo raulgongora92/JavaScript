@@ -1,3 +1,5 @@
+// Funcion + Bucle for
+
 function listArrayItems(arr) {
 
     for (var i = 0; i < arr.length; i++){
@@ -9,10 +11,11 @@ function listArrayItems(arr) {
 var colors = ['red', 'orange', 'yellow', 'green', 'blue', 'purple', 'pink'];
 listArrayItems(colors);
 
-
 console.log('-----------------------');
 
-function listArrayItems(arr) {
+// Funcion + Bucle for + Condicional if, else if y else
+
+function listArrayItems2(arr) {
     for (var i = 0; i < arr.length; i++) {
         if (arr[i] == 'red') {
             console.log(i*100, "tomato!")
@@ -23,4 +26,4 @@ function listArrayItems(arr) {
 }
 
 var colors = ['red', 'orange', 'yellow', 'green', 'blue', 'purple', 'pink'];
-listArrayItems(colors);
+listArrayItems2(colors);
