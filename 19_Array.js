@@ -1,4 +1,4 @@
-// Example of an array
+// Ejemplo de un array
 
 var train1 = ["wheat", "barley", "potato", "salt", "rocks"];
 
