@@ -1,3 +1,5 @@
+// Condicional If, else if y else
+
 var edad = 50;
 
 if (edad >= 65) {
@@ -11,6 +13,8 @@ if (edad >= 65) {
 }
 
 console.log("--------------------------");
+
+// Condicional Switch
 
 var day = "Domingo";
 
