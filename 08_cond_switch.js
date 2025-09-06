@@ -1,3 +1,6 @@
+// Condicional switch
+// Ejemplo de uso de switch para manejar múltiples condiciones
+
 var place = "second";
 
 switch (place) {
