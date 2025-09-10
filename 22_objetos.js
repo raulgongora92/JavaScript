@@ -20,6 +20,7 @@ console.log(storeManager, assistantManager);
 console.log("-------------------");
 
 // Agregar una propiedad
+// notacion de puntos
 storeManager.nextAchievement = "open a new store";
 assistantManager.nextAchievement = "get promoted";
 
