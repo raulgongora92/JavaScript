@@ -37,4 +37,9 @@ console.log("-------------------");
 storeManager.rangeTilesPerTurn = 5;
 assistantManager.movement = 4;  
 console.log(storeManager, assistantManager);
+console.log("-------------------");
 
+// Acceder a una propiedad
+
+console.log("Accediendo a una propiedad:", storeManager.health);
+console.log("-------------------");
